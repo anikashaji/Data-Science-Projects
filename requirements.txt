@@ -1,0 +1,8 @@
+streamlit
+autogen
+dotenv
+llama_index
+llama-index-experimental
+llama-index-llms-vertex
+google-auth
+autogen-agentchat[gemini]
